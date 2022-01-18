@@ -1,0 +1,15 @@
+/*Global Styling*/
+*{
+    margin:0;
+    padding:0;
+}
+/* Header */
+.header-top{
+    width:100%;
+    height: 20px;
+}
+.sct-head{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
